@@ -1,0 +1,12 @@
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\bin\Debug\projet2020Vb.exe.config
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\bin\Debug\projet2020Vb.exe
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\bin\Debug\projet2020Vb.pdb
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\bin\Debug\projet2020Vb.xml
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.vbprojAssemblyReference.cache
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.Resources.resources
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.vbproj.GenerateResource.cache
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.vbproj.CoreCompileInputs.cache
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.exe
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.xml
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.pdb
+C:\Users\quent\source\repos\projet2020Vb\projet2020Vb\obj\Debug\projet2020Vb.Mainform.resources

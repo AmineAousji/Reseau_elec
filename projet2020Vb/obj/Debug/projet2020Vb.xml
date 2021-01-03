@@ -1,0 +1,47 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+projet2020Vb
+</name>
+</assembly>
+<members>
+<member name="T:projet2020Vb.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:projet2020Vb.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:projet2020Vb.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:projet2020Vb.IMarket">
+ <summary>Market Simulation</summary>
+</member>
+<member name="M:projet2020Vb.IMarket.BuyingPriceFunc">
+ <summary>Le prix d'achat d'électicité</summary>
+</member>
+<member name="M:projet2020Vb.IMarket.SellingPriceFunc">
+ <summary>Le prix de vente d'électricité</summary>
+</member>
+<member name="T:projet2020Vb.IWeather">
+ <summary>Weather Simulation</summary>
+</member>
+<member name="M:projet2020Vb.IWeather.SunshineLevelFunc">
+ <summary>Le niveau d'ensoleillement</summary>
+</member>
+<member name="M:projet2020Vb.IWeather.WindForceFunc">
+ <summary>La force du vent</summary>
+</member>
+<member name="M:projet2020Vb.IWeather.TemperatureFunc">
+ <summary>La température à un point donné</summary>
+</member>
+</members>
+</doc>
